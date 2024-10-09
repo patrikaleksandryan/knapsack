@@ -155,7 +155,7 @@ func showKnapsack(solution []int, items []Item) {
 		}
 	}
 
-	fmt.Printf("----------------\n")
+	fmt.Printf("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n")
 	fmt.Printf("Total items included: %d\n", count)
 }
 
@@ -175,6 +175,7 @@ func main() {
 	// Record script start time
 	start := time.Now()
 
+	// Run simulated annealing algorithm
 	bestSolution, bestValue := simulatedAnnealing(items, maxWeight, maxTemp, minTemp, coolingRate)
 	fmt.Printf("Best solution: %v\n", bestSolution)
 	showKnapsack(bestSolution, items)
@@ -183,4 +184,5 @@ func main() {
 	// Script execution time calculation
 	duration := time.Since(start)
 	fmt.Printf("Execution time: %v\n", duration)
+	fmt.Printf("-------------------------------------------------------------")
 }
