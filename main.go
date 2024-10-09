@@ -105,7 +105,10 @@ func simulatedAnnealing(items []Item, maxWeight, maxTemp, minTemp, coolingRate f
 	curValue, curWeight := computeEnergy(curSolution, items)
 
 	// If weight of initial random solution exceeds maxWeight, trying to find a better solution
-	for curWeight > maxWeight {
+	maxAttempts := 1000 //!FIXME Actually this does not solve the problem for big lists
+	attempts := 0
+	for curWeight > maxWeight && attempts < maxAttempts {
+		attempts++
 		curSolution = randomSolution(items, rnd)
 		curValue, curWeight = computeEnergy(curSolution, items)
 	}
@@ -116,7 +119,9 @@ func simulatedAnnealing(items []Item, maxWeight, maxTemp, minTemp, coolingRate f
 	temp := maxTemp
 
 	// Main simulated annealing loop
+	iterations := 0
 	for temp > minTemp {
+		iterations++
 		// Generating candidate solution and calculating it's weight and value
 		candidateSolution := generateCandidate(curSolution, rnd)
 		candidateValue, candidateWeight := computeEnergy(candidateSolution, items)
@@ -138,6 +143,12 @@ func simulatedAnnealing(items []Item, maxWeight, maxTemp, minTemp, coolingRate f
 
 			// Cooling down the temperature
 			temp *= coolingRate
+		}
+
+		// Interrupt if there are too many iterations
+		if iterations > 1000000 {
+			fmt.Println("Too many iterations, stopping early.")
+			break
 		}
 	}
 

@@ -9,7 +9,6 @@
   {"weight": 0.29, "value": 89, "name": "Folding Knife"},
   {"weight": 0.31, "value": 92, "name": "Multi-purpose Knife"},
   {"weight": 0.25, "value": 83, "name": "Stainless Steel Knife"},
-
   {"weight": 0.10, "value": 110, "name": "Windproof Lighter"},
   {"weight": 0.08, "value": 100, "name": "Compact Lighter"},
   {"weight": 0.12, "value": 115, "name": "Long-lasting Lighter"},
@@ -20,7 +19,6 @@
   {"weight": 0.06, "value": 90, "name": "Emergency Lighter"},
   {"weight": 0.14, "value": 125, "name": "Heavy-duty Lighter"},
   {"weight": 0.15, "value": 130, "name": "All-weather Lighter"},
-
   {"weight": 0.45, "value": 130, "name": "High-capacity Power Bank"},
   {"weight": 0.50, "value": 140, "name": "Compact Power Bank"},
   {"weight": 0.55, "value": 150, "name": "Fast-charging Power Bank"},
@@ -31,7 +29,6 @@
   {"weight": 0.38, "value": 115, "name": "Rugged Power Bank"},
   {"weight": 0.48, "value": 135, "name": "High-efficiency Power Bank"},
   {"weight": 0.52, "value": 145, "name": "Lightweight Power Bank"},
-
   {"weight": 0.80, "value": 180, "name": "Warm Sleeping Bag"},
   {"weight": 0.75, "value": 170, "name": "Compact Sleeping Bag"},
   {"weight": 0.95, "value": 200, "name": "Waterproof Sleeping Bag"},
@@ -42,7 +39,6 @@
   {"weight": 1.20, "value": 260, "name": "Double Sleeping Bag"},
   {"weight": 1.30, "value": 280, "name": "Expedition Sleeping Bag"},
   {"weight": 1.40, "value": 300, "name": "Quick-pack Sleeping Bag"},
-
   {"weight": 3.00, "value": 220, "name": "Two-person Tent"},
   {"weight": 3.50, "value": 250, "name": "All-weather Tent"},
   {"weight": 2.80, "value": 200, "name": "Lightweight Tent"},
@@ -53,7 +49,6 @@
   {"weight": 3.80, "value": 260, "name": "Waterproof Tent"},
   {"weight": 3.10, "value": 225, "name": "Quick-setup Tent"},
   {"weight": 3.90, "value": 265, "name": "Double-layer Tent"},
-
   {"weight": 0.25, "value": 80, "name": "Basic First Aid Kit"},
   {"weight": 0.30, "value": 90, "name": "Compact First Aid Kit"},
   {"weight": 0.35, "value": 100, "name": "Waterproof First Aid Kit"},
@@ -64,7 +59,6 @@
   {"weight": 0.60, "value": 130, "name": "High-capacity First Aid Kit"},
   {"weight": 0.55, "value": 125, "name": "Portable First Aid Kit"},
   {"weight": 0.70, "value": 140, "name": "Heavy-duty First Aid Kit"},
-
   {"weight": 0.05, "value": 35, "name": "Foldable Map"},
   {"weight": 0.06, "value": 40, "name": "Waterproof Map"},
   {"weight": 0.04, "value": 30, "name": "Compact Map"},
@@ -75,7 +69,6 @@
   {"weight": 0.10, "value": 60, "name": "Trail Map"},
   {"weight": 0.11, "value": 65, "name": "Emergency Map"},
   {"weight": 0.12, "value": 70, "name": "High-resolution Map"},
-
   {"weight": 1.50, "value": 230, "name": "High-calorie Food Supplies"},
   {"weight": 1.30, "value": 200, "name": "Dehydrated Food Supplies"},
   {"weight": 1.40, "value": 210, "name": "Protein-rich Food Supplies"},
@@ -86,7 +79,6 @@
   {"weight": 2.00, "value": 280, "name": "Heavy-duty Food Supplies"},
   {"weight": 2.20, "value": 300, "name": "Family-sized Food Supplies"},
   {"weight": 2.50, "value": 350, "name": "Multi-day Food Supplies"},
-
   {"weight": 1.00, "value": 70, "name": "Insulated Water Bottle"},
   {"weight": 1.20, "value": 90, "name": "Lightweight Water Bottle"},
   {"weight": 0.80, "value": 60, "name": "Foldable Water Bottle"},
@@ -97,7 +89,6 @@
   {"weight": 1.40, "value": 95, "name": "Leak-proof Water Bottle"},
   {"weight": 1.60, "value": 105, "name": "Stainless Steel Water Bottle"},
   {"weight": 1.70, "value": 110, "name": "Eco-friendly Water Bottle"},
-
   {"weight": 0.80, "value": 90, "name": "Portable Stove"},
   {"weight": 0.85, "value": 95, "name": "Compact Stove"},
   {"weight": 0.75, "value": 85, "name": "Lightweight Stove"},
