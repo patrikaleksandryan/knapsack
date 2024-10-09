@@ -1,0 +1,792 @@
+=============================================================
+=== List: item_set_small.json ===============================
+=============================================================
+Attempt: 1
+Best solution: [1 1 1 1 0 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - Sleeping Bag (Weight: 0.750000, Value: 150)
+ - First Aid Kit (Weight: 0.200000, Value: 60)
+ - Map (Weight: 0.050000, Value: 30)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Flashlight (Weight: 0.300000, Value: 70)
+ - Warm Clothes (Weight: 0.600000, Value: 100)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Hiking Boots (Weight: 0.350000, Value: 90)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Cooking Utensils (Weight: 0.500000, Value: 120)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Sunscreen (Weight: 0.150000, Value: 50)
+ - Hat (Weight: 0.100000, Value: 60)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 18
+Total value: 1470
+Execution time: 100.083µs
+-------------------------------------------------------------
+
+Attempt: 2
+Best solution: [1 0 1 0 1 0 1 0 0 0 1 0 0 1 0 0 1 1 0 1 0 1]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - Tent (Weight: 2.950000, Value: 130)
+ - Map (Weight: 0.050000, Value: 30)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Cooking Utensils (Weight: 0.500000, Value: 120)
+ - Sunscreen (Weight: 0.150000, Value: 50)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 10
+Total value: 850
+Execution time: 61µs
+-------------------------------------------------------------
+
+Attempt: 3
+Best solution: [1 1 1 0 0 1 1 1 0 0 1 1 1 1 1 1 1 0 1 1 0 1]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - First Aid Kit (Weight: 0.200000, Value: 60)
+ - Map (Weight: 0.050000, Value: 30)
+ - Food Supplies (Weight: 1.500000, Value: 200)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Flashlight (Weight: 0.300000, Value: 70)
+ - Warm Clothes (Weight: 0.600000, Value: 100)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Hiking Boots (Weight: 0.350000, Value: 90)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Sunscreen (Weight: 0.150000, Value: 50)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 16
+Total value: 1340
+Execution time: 63.083µs
+-------------------------------------------------------------
+
+Attempt: 4
+Best solution: [1 1 1 1 0 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - Sleeping Bag (Weight: 0.750000, Value: 150)
+ - First Aid Kit (Weight: 0.200000, Value: 60)
+ - Map (Weight: 0.050000, Value: 30)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Flashlight (Weight: 0.300000, Value: 70)
+ - Warm Clothes (Weight: 0.600000, Value: 100)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Hiking Boots (Weight: 0.350000, Value: 90)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Cooking Utensils (Weight: 0.500000, Value: 120)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Sunscreen (Weight: 0.150000, Value: 50)
+ - Hat (Weight: 0.100000, Value: 60)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 18
+Total value: 1470
+Execution time: 71.333µs
+-------------------------------------------------------------
+
+Attempt: 5
+Best solution: [0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1]
+List of items included in knapsack:
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - Sleeping Bag (Weight: 0.750000, Value: 150)
+ - First Aid Kit (Weight: 0.200000, Value: 60)
+ - Map (Weight: 0.050000, Value: 30)
+ - Water Bottle (Weight: 1.000000, Value: 50)
+ - Portable Stove (Weight: 0.800000, Value: 40)
+ - Flashlight (Weight: 0.300000, Value: 70)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Hiking Boots (Weight: 0.350000, Value: 90)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Hat (Weight: 0.100000, Value: 60)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 15
+Total value: 1175
+Execution time: 77.041µs
+-------------------------------------------------------------
+
+Attempt: 6
+Best solution: [1 1 1 1 0 1 1 0 0 1 1 0 1 1 1 1 1 1 1 0 1 0]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - Sleeping Bag (Weight: 0.750000, Value: 150)
+ - First Aid Kit (Weight: 0.200000, Value: 60)
+ - Map (Weight: 0.050000, Value: 30)
+ - Portable Stove (Weight: 0.800000, Value: 40)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Warm Clothes (Weight: 0.600000, Value: 100)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Hiking Boots (Weight: 0.350000, Value: 90)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Cooking Utensils (Weight: 0.500000, Value: 120)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Hat (Weight: 0.100000, Value: 60)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 16
+Total value: 1310
+Execution time: 65.208µs
+-------------------------------------------------------------
+
+Attempt: 7
+Best solution: [1 1 1 1 0 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - Sleeping Bag (Weight: 0.750000, Value: 150)
+ - First Aid Kit (Weight: 0.200000, Value: 60)
+ - Map (Weight: 0.050000, Value: 30)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Flashlight (Weight: 0.300000, Value: 70)
+ - Warm Clothes (Weight: 0.600000, Value: 100)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Hiking Boots (Weight: 0.350000, Value: 90)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Cooking Utensils (Weight: 0.500000, Value: 120)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Sunscreen (Weight: 0.150000, Value: 50)
+ - Hat (Weight: 0.100000, Value: 60)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 18
+Total value: 1470
+Execution time: 66.208µs
+-------------------------------------------------------------
+
+Attempt: 8
+Best solution: [1 1 1 1 0 1 1 1 0 0 1 0 0 1 1 0 1 1 1 1 0 1]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - Sleeping Bag (Weight: 0.750000, Value: 150)
+ - First Aid Kit (Weight: 0.200000, Value: 60)
+ - Map (Weight: 0.050000, Value: 30)
+ - Food Supplies (Weight: 1.500000, Value: 200)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Cooking Utensils (Weight: 0.500000, Value: 120)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Sunscreen (Weight: 0.150000, Value: 50)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 15
+Total value: 1350
+Execution time: 67.208µs
+-------------------------------------------------------------
+
+Attempt: 9
+Best solution: [1 1 1 0 0 1 1 1 0 0 1 1 0 1 1 1 1 1 1 1 1 1]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Power bank (Weight: 0.400000, Value: 120)
+ - First Aid Kit (Weight: 0.200000, Value: 60)
+ - Map (Weight: 0.050000, Value: 30)
+ - Food Supplies (Weight: 1.500000, Value: 200)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Flashlight (Weight: 0.300000, Value: 70)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Hiking Boots (Weight: 0.350000, Value: 90)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Cooking Utensils (Weight: 0.500000, Value: 120)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Sunscreen (Weight: 0.150000, Value: 50)
+ - Hat (Weight: 0.100000, Value: 60)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 17
+Total value: 1420
+Execution time: 64.292µs
+-------------------------------------------------------------
+
+Attempt: 10
+Best solution: [1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 0 1 1 1 1]
+List of items included in knapsack:
+ - Knife (Weight: 0.250000, Value: 80)
+ - Lighter (Weight: 0.100000, Value: 100)
+ - Sleeping Bag (Weight: 0.750000, Value: 150)
+ - Map (Weight: 0.050000, Value: 30)
+ - Food Supplies (Weight: 1.500000, Value: 200)
+ - Compass (Weight: 0.150000, Value: 35)
+ - Warm Clothes (Weight: 0.600000, Value: 100)
+ - Toothbrush (Weight: 0.050000, Value: 25)
+ - Toothpaste (Weight: 0.050000, Value: 20)
+ - Hiking Boots (Weight: 0.350000, Value: 90)
+ - Rain Jacket (Weight: 0.200000, Value: 180)
+ - Multi-tool (Weight: 0.350000, Value: 100)
+ - Sunscreen (Weight: 0.150000, Value: 50)
+ - Hat (Weight: 0.100000, Value: 60)
+ - Gloves (Weight: 0.300000, Value: 80)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 15
+Total value: 1300
+Execution time: 63.416µs
+
+=============================================================
+=== List: item_set_mid.json =================================
+=============================================================
+Attempt: 1
+Best solution: [0 0 0 1 1 1 1 1 1 1 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 1 0 0]
+List of items included in knapsack:
+ - Windproof Lighter (Weight: 0.100000, Value: 110)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Long-lasting Lighter (Weight: 0.120000, Value: 115)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Miniature Lighter (Weight: 0.070000, Value: 95)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Waterproof Sleeping Bag (Weight: 0.950000, Value: 200)
+ - Quick-pack Sleeping Bag (Weight: 1.400000, Value: 300)
+ - Basic First Aid Kit (Weight: 0.250000, Value: 80)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Foldable Water Bottle (Weight: 0.800000, Value: 60)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 15
+Total value: 1738
+Execution time: 220.863458ms
+-------------------------------------------------------------
+
+Attempt: 2
+Best solution: [1 1 0 0 1 1 1 1 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1]
+List of items included in knapsack:
+ - Sharp Knife (Weight: 0.270000, Value: 85)
+ - Compact Knife (Weight: 0.230000, Value: 80)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Long-lasting Lighter (Weight: 0.120000, Value: 115)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Miniature Lighter (Weight: 0.070000, Value: 95)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - All-weather Lighter (Weight: 0.150000, Value: 130)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Compact Sleeping Bag (Weight: 0.750000, Value: 170)
+ - Basic First Aid Kit (Weight: 0.250000, Value: 80)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Portable Stove (Weight: 0.800000, Value: 90)
+ - Compact Stove (Weight: 0.850000, Value: 95)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 18
+Total value: 1853
+Execution time: 261.962ms
+-------------------------------------------------------------
+
+Attempt: 3
+Best solution: [0 0 1 1 1 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0]
+List of items included in knapsack:
+ - Heavy Duty Knife (Weight: 0.350000, Value: 95)
+ - Windproof Lighter (Weight: 0.100000, Value: 110)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Miniature Lighter (Weight: 0.070000, Value: 95)
+ - All-weather Lighter (Weight: 0.150000, Value: 130)
+ - High-capacity Power Bank (Weight: 0.450000, Value: 130)
+ - Double Sleeping Bag (Weight: 1.200000, Value: 260)
+ - Expedition Sleeping Bag (Weight: 1.300000, Value: 280)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Foldable Water Bottle (Weight: 0.800000, Value: 60)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 12
+Total value: 1558
+Execution time: 301.450541ms
+-------------------------------------------------------------
+
+Attempt: 4
+Best solution: [0 1 1 1 0 1 1 0 0 1 1 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0]
+List of items included in knapsack:
+ - Compact Knife (Weight: 0.230000, Value: 80)
+ - Heavy Duty Knife (Weight: 0.350000, Value: 95)
+ - Windproof Lighter (Weight: 0.100000, Value: 110)
+ - Long-lasting Lighter (Weight: 0.120000, Value: 115)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - Waterproof Sleeping Bag (Weight: 0.950000, Value: 200)
+ - Insulated Sleeping Bag (Weight: 0.850000, Value: 185)
+ - Heavy-duty Sleeping Bag (Weight: 1.000000, Value: 220)
+ - Basic First Aid Kit (Weight: 0.250000, Value: 80)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Waterproof Map (Weight: 0.060000, Value: 40)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 15
+Total value: 1755
+Execution time: 10.804ms
+-------------------------------------------------------------
+
+Attempt: 5
+Best solution: [1 0 0 1 0 1 1 1 1 1 0 1 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0]
+List of items included in knapsack:
+ - Sharp Knife (Weight: 0.270000, Value: 85)
+ - Windproof Lighter (Weight: 0.100000, Value: 110)
+ - Long-lasting Lighter (Weight: 0.120000, Value: 115)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Miniature Lighter (Weight: 0.070000, Value: 95)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - High-capacity Power Bank (Weight: 0.450000, Value: 130)
+ - Fast-charging Power Bank (Weight: 0.550000, Value: 150)
+ - Insulated Sleeping Bag (Weight: 0.850000, Value: 185)
+ - Expedition Sleeping Bag (Weight: 1.300000, Value: 280)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Foldable Map (Weight: 0.050000, Value: 35)
+ - Waterproof Map (Weight: 0.060000, Value: 40)
+ - Compact Map (Weight: 0.040000, Value: 30)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 17
+Total value: 1898
+Execution time: 110.984375ms
+-------------------------------------------------------------
+
+Attempt: 6
+Best solution: [1 1 1 1 0 1 1 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 1 1 0]
+List of items included in knapsack:
+ - Sharp Knife (Weight: 0.270000, Value: 85)
+ - Compact Knife (Weight: 0.230000, Value: 80)
+ - Heavy Duty Knife (Weight: 0.350000, Value: 95)
+ - Windproof Lighter (Weight: 0.100000, Value: 110)
+ - Long-lasting Lighter (Weight: 0.120000, Value: 115)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Lightweight Sleeping Bag (Weight: 0.900000, Value: 195)
+ - Basic First Aid Kit (Weight: 0.250000, Value: 80)
+ - Foldable Map (Weight: 0.050000, Value: 35)
+ - Waterproof Map (Weight: 0.060000, Value: 40)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Foldable Water Bottle (Weight: 0.800000, Value: 60)
+ - Portable Stove (Weight: 0.800000, Value: 90)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 18
+Total value: 1698
+Execution time: 169.954292ms
+-------------------------------------------------------------
+
+Attempt: 7
+Best solution: [0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0]
+List of items included in knapsack:
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Long-lasting Lighter (Weight: 0.120000, Value: 115)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Miniature Lighter (Weight: 0.070000, Value: 95)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - Compact Sleeping Bag (Weight: 0.750000, Value: 170)
+ - Compact Tent (Weight: 2.700000, Value: 190)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Waterproof Map (Weight: 0.060000, Value: 40)
+ - Compact Map (Weight: 0.040000, Value: 30)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 14
+Total value: 1473
+Execution time: 104.152167ms
+-------------------------------------------------------------
+
+Attempt: 8
+Best solution: [0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0]
+List of items included in knapsack:
+ - Heavy Duty Knife (Weight: 0.350000, Value: 95)
+ - Windproof Lighter (Weight: 0.100000, Value: 110)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Long-lasting Lighter (Weight: 0.120000, Value: 115)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Miniature Lighter (Weight: 0.070000, Value: 95)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - High-capacity Power Bank (Weight: 0.450000, Value: 130)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Warm Sleeping Bag (Weight: 0.800000, Value: 180)
+ - Waterproof Sleeping Bag (Weight: 0.950000, Value: 200)
+ - Basic First Aid Kit (Weight: 0.250000, Value: 80)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Waterproof Map (Weight: 0.060000, Value: 40)
+ - Compact Map (Weight: 0.040000, Value: 30)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 19
+Total value: 2048
+Execution time: 126.912ms
+-------------------------------------------------------------
+
+Attempt: 9
+Best solution: [0 0 1 1 1 0 1 1 0 0 1 1 1 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1]
+List of items included in knapsack:
+ - Heavy Duty Knife (Weight: 0.350000, Value: 95)
+ - Windproof Lighter (Weight: 0.100000, Value: 110)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - All-weather Lighter (Weight: 0.150000, Value: 130)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Insulated Sleeping Bag (Weight: 0.850000, Value: 185)
+ - Expedition Sleeping Bag (Weight: 1.300000, Value: 280)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Waterproof Map (Weight: 0.060000, Value: 40)
+ - Compact Stove (Weight: 0.850000, Value: 95)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 14
+Total value: 1698
+Execution time: 157.977875ms
+-------------------------------------------------------------
+
+Attempt: 10
+Best solution: [1 0 1 0 1 0 0 1 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 0 0 1 0]
+List of items included in knapsack:
+ - Sharp Knife (Weight: 0.270000, Value: 85)
+ - Heavy Duty Knife (Weight: 0.350000, Value: 95)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - High-capacity Power Bank (Weight: 0.450000, Value: 130)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Compact Sleeping Bag (Weight: 0.750000, Value: 170)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Foldable Map (Weight: 0.050000, Value: 35)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Insulated Water Bottle (Weight: 1.000000, Value: 70)
+ - Portable Stove (Weight: 0.800000, Value: 90)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 14
+Total value: 1393
+Execution time: 93.425416ms
+-------------------------------------------------------------
+
+
+=============================================================
+=== List: item_set_big.json =================================
+=============================================================
+Attempt: 1
+Best solution: [0 1 0 1 0 1 0 0 1 1 0 1 0 1 1 0 0 1 1 1 1 0 0 1 1 0 1 1 0 0 1 1 1 0 1 1 0 0 1 1 1 0 0 1 1 1 0 0 0 1 1 1 1 0 0 0 1 1 1 0 1 0 1 1 1 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 1 1 1 0 1 0 0 1 1 1 1 1 1 1 1 0 0]
+List of items included in knapsack:
+ - Compact Knife (Weight: 0.230000, Value: 80)
+ - Lightweight Knife (Weight: 0.220000, Value: 78)
+ - Rugged Knife (Weight: 0.300000, Value: 90)
+ - Multi-purpose Knife (Weight: 0.310000, Value: 92)
+ - Stainless Steel Knife (Weight: 0.250000, Value: 83)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - All-weather Lighter (Weight: 0.150000, Value: 130)
+ - High-capacity Power Bank (Weight: 0.450000, Value: 130)
+ - Waterproof Power Bank (Weight: 0.400000, Value: 120)
+ - Heavy-duty Power Bank (Weight: 0.600000, Value: 160)
+ - Slim Power Bank (Weight: 0.420000, Value: 125)
+ - Rugged Power Bank (Weight: 0.380000, Value: 115)
+ - Warm Sleeping Bag (Weight: 0.800000, Value: 180)
+ - Compact Sleeping Bag (Weight: 0.750000, Value: 170)
+ - Waterproof Sleeping Bag (Weight: 0.950000, Value: 200)
+ - Insulated Sleeping Bag (Weight: 0.850000, Value: 185)
+ - Heavy-duty Sleeping Bag (Weight: 1.000000, Value: 220)
+ - Expedition Sleeping Bag (Weight: 1.300000, Value: 280)
+ - Quick-pack Sleeping Bag (Weight: 1.400000, Value: 300)
+ - Two-person Tent (Weight: 3.000000, Value: 220)
+ - Family-sized Tent (Weight: 4.000000, Value: 270)
+ - Compact Tent (Weight: 2.700000, Value: 190)
+ - Heavy-duty Tent (Weight: 4.500000, Value: 300)
+ - Double-layer Tent (Weight: 3.900000, Value: 265)
+ - Basic First Aid Kit (Weight: 0.250000, Value: 80)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Emergency First Aid Kit (Weight: 0.500000, Value: 120)
+ - High-capacity First Aid Kit (Weight: 0.600000, Value: 130)
+ - Portable First Aid Kit (Weight: 0.550000, Value: 125)
+ - Foldable Map (Weight: 0.050000, Value: 35)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Detailed Map (Weight: 0.070000, Value: 45)
+ - Topographic Map (Weight: 0.080000, Value: 50)
+ - High-calorie Food Supplies (Weight: 1.500000, Value: 230)
+ - Carbohydrate Food Supplies (Weight: 1.600000, Value: 240)
+ - Heavy-duty Food Supplies (Weight: 2.000000, Value: 280)
+ - Family-sized Food Supplies (Weight: 2.200000, Value: 300)
+ - Multi-day Food Supplies (Weight: 2.500000, Value: 350)
+ - Insulated Water Bottle (Weight: 1.000000, Value: 70)
+ - High-capacity Water Bottle (Weight: 1.500000, Value: 100)
+ - Compact Water Bottle (Weight: 1.100000, Value: 75)
+ - Emergency Water Bottle (Weight: 0.900000, Value: 65)
+ - Leak-proof Water Bottle (Weight: 1.400000, Value: 95)
+ - Portable Stove (Weight: 0.800000, Value: 90)
+ - Compact Stove (Weight: 0.850000, Value: 95)
+ - Lightweight Stove (Weight: 0.750000, Value: 85)
+ - High-efficiency Stove (Weight: 0.900000, Value: 100)
+ - Multi-purpose Stove (Weight: 0.700000, Value: 80)
+ - Double-burner Stove (Weight: 1.000000, Value: 110)
+ - Heavy-duty Stove (Weight: 1.100000, Value: 120)
+ - Windproof Stove (Weight: 0.950000, Value: 105)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 56
+Total value: 7901
+Execution time: 164.327208ms
+-------------------------------------------------------------
+
+Attempt: 2
+Best solution: [1 1 0 1 1 1 0 1 1 0 0 1 1 0 0 0 1 0 1 1 1 1 1 0 1 1 0 0 1 1 0 0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 1 1 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 1 0 0 0 0 0 1 0]
+List of items included in knapsack:
+ - Sharp Knife (Weight: 0.270000, Value: 85)
+ - Compact Knife (Weight: 0.230000, Value: 80)
+ - Lightweight Knife (Weight: 0.220000, Value: 78)
+ - Versatile Knife (Weight: 0.280000, Value: 88)
+ - Rugged Knife (Weight: 0.300000, Value: 90)
+ - Folding Knife (Weight: 0.290000, Value: 89)
+ - Multi-purpose Knife (Weight: 0.310000, Value: 92)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Long-lasting Lighter (Weight: 0.120000, Value: 115)
+ - High-capacity Lighter (Weight: 0.130000, Value: 120)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - All-weather Lighter (Weight: 0.150000, Value: 130)
+ - High-capacity Power Bank (Weight: 0.450000, Value: 130)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Fast-charging Power Bank (Weight: 0.550000, Value: 150)
+ - Heavy-duty Power Bank (Weight: 0.600000, Value: 160)
+ - Portable Power Bank (Weight: 0.350000, Value: 110)
+ - High-efficiency Power Bank (Weight: 0.480000, Value: 135)
+ - Lightweight Power Bank (Weight: 0.520000, Value: 145)
+ - Waterproof Sleeping Bag (Weight: 0.950000, Value: 200)
+ - Lightweight Sleeping Bag (Weight: 0.900000, Value: 195)
+ - Double Sleeping Bag (Weight: 1.200000, Value: 260)
+ - Expedition Sleeping Bag (Weight: 1.300000, Value: 280)
+ - Quick-pack Sleeping Bag (Weight: 1.400000, Value: 300)
+ - All-weather Tent (Weight: 3.500000, Value: 250)
+ - Insulated Tent (Weight: 3.200000, Value: 230)
+ - Mini First Aid Kit (Weight: 0.200000, Value: 60)
+ - Multi-purpose First Aid Kit (Weight: 0.450000, Value: 115)
+ - High-capacity First Aid Kit (Weight: 0.600000, Value: 130)
+ - Heavy-duty First Aid Kit (Weight: 0.700000, Value: 140)
+ - Foldable Map (Weight: 0.050000, Value: 35)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Detailed Map (Weight: 0.070000, Value: 45)
+ - Topographic Map (Weight: 0.080000, Value: 50)
+ - Trail Map (Weight: 0.100000, Value: 60)
+ - High-calorie Food Supplies (Weight: 1.500000, Value: 230)
+ - Dehydrated Food Supplies (Weight: 1.300000, Value: 200)
+ - Insulated Water Bottle (Weight: 1.000000, Value: 70)
+ - Lightweight Water Bottle (Weight: 1.200000, Value: 90)
+ - Foldable Water Bottle (Weight: 0.800000, Value: 60)
+ - Compact Water Bottle (Weight: 1.100000, Value: 75)
+ - Emergency Water Bottle (Weight: 0.900000, Value: 65)
+ - Wide-mouth Water Bottle (Weight: 1.300000, Value: 85)
+ - Stainless Steel Water Bottle (Weight: 1.600000, Value: 105)
+ - Portable Stove (Weight: 0.800000, Value: 90)
+ - Compact Stove (Weight: 0.850000, Value: 95)
+ - Lightweight Stove (Weight: 0.750000, Value: 85)
+ - Large-capacity Stove (Weight: 1.200000, Value: 130)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 48
+Total value: 5922
+Execution time: 162.405292ms
+-------------------------------------------------------------
+
+Attempt: 3
+Best solution: [0 1 0 1 0 1 1 1 1 1 0 0 0 1 1 0 0 1 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 1 1 1 0 1 1 0 0 1 1 0 0 1 0 0 1 1 0 1 1 1 0 0 0 1 0 1 0 0 1 1 1 1 1 0 0 1 0 1 1 0 0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0]
+List of items included in knapsack:
+ - Compact Knife (Weight: 0.230000, Value: 80)
+ - Lightweight Knife (Weight: 0.220000, Value: 78)
+ - Rugged Knife (Weight: 0.300000, Value: 90)
+ - Camping Knife (Weight: 0.260000, Value: 84)
+ - Folding Knife (Weight: 0.290000, Value: 89)
+ - Multi-purpose Knife (Weight: 0.310000, Value: 92)
+ - Stainless Steel Knife (Weight: 0.250000, Value: 83)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - Emergency Lighter (Weight: 0.060000, Value: 90)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - High-capacity Power Bank (Weight: 0.450000, Value: 130)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Waterproof Power Bank (Weight: 0.400000, Value: 120)
+ - Slim Power Bank (Weight: 0.420000, Value: 125)
+ - Rugged Power Bank (Weight: 0.380000, Value: 115)
+ - High-efficiency Power Bank (Weight: 0.480000, Value: 135)
+ - Warm Sleeping Bag (Weight: 0.800000, Value: 180)
+ - Waterproof Sleeping Bag (Weight: 0.950000, Value: 200)
+ - Lightweight Sleeping Bag (Weight: 0.900000, Value: 195)
+ - Four-season Sleeping Bag (Weight: 1.100000, Value: 240)
+ - All-weather Tent (Weight: 3.500000, Value: 250)
+ - Family-sized Tent (Weight: 4.000000, Value: 270)
+ - Compact Tent (Weight: 2.700000, Value: 190)
+ - Heavy-duty Tent (Weight: 4.500000, Value: 300)
+ - Waterproof Tent (Weight: 3.800000, Value: 260)
+ - Quick-setup Tent (Weight: 3.100000, Value: 225)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Multi-purpose First Aid Kit (Weight: 0.450000, Value: 115)
+ - Portable First Aid Kit (Weight: 0.550000, Value: 125)
+ - Heavy-duty First Aid Kit (Weight: 0.700000, Value: 140)
+ - Waterproof Map (Weight: 0.060000, Value: 40)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Detailed Map (Weight: 0.070000, Value: 45)
+ - Trail Map (Weight: 0.100000, Value: 60)
+ - High-resolution Map (Weight: 0.120000, Value: 70)
+ - Protein-rich Food Supplies (Weight: 1.400000, Value: 210)
+ - Carbohydrate Food Supplies (Weight: 1.600000, Value: 240)
+ - Variety Food Supplies (Weight: 1.700000, Value: 250)
+ - Canned Food Supplies (Weight: 1.800000, Value: 260)
+ - Lightweight Food Supplies (Weight: 1.200000, Value: 190)
+ - Multi-day Food Supplies (Weight: 2.500000, Value: 350)
+ - Lightweight Water Bottle (Weight: 1.200000, Value: 90)
+ - Foldable Water Bottle (Weight: 0.800000, Value: 60)
+ - Stainless Steel Water Bottle (Weight: 1.600000, Value: 105)
+ - Eco-friendly Water Bottle (Weight: 1.700000, Value: 110)
+ - Lightweight Stove (Weight: 0.750000, Value: 85)
+ - High-efficiency Stove (Weight: 0.900000, Value: 100)
+ - Heavy-duty Stove (Weight: 1.100000, Value: 120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 50
+Total value: 7079
+Execution time: 169.55075ms
+-------------------------------------------------------------
+
+Attempt: 4
+Best solution: [0 1 0 0 0 1 0 1 1 1 1 1 0 1 1 0 0 0 0 0 1 1 1 0 1 1 0 0 0 1 1 0 1 0 0 0 0 1 1 1 0 1 0 0 0 1 0 0 1 1 1 1 0 1 1 0 0 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 0 0 1 1 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 0 0 1 0 0 0 1 0]
+List of items included in knapsack:
+ - Compact Knife (Weight: 0.230000, Value: 80)
+ - Rugged Knife (Weight: 0.300000, Value: 90)
+ - Folding Knife (Weight: 0.290000, Value: 89)
+ - Multi-purpose Knife (Weight: 0.310000, Value: 92)
+ - Stainless Steel Knife (Weight: 0.250000, Value: 83)
+ - Windproof Lighter (Weight: 0.100000, Value: 110)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Refillable Lighter (Weight: 0.090000, Value: 103)
+ - High-capacity Power Bank (Weight: 0.450000, Value: 130)
+ - Compact Power Bank (Weight: 0.500000, Value: 140)
+ - Fast-charging Power Bank (Weight: 0.550000, Value: 150)
+ - Heavy-duty Power Bank (Weight: 0.600000, Value: 160)
+ - Portable Power Bank (Weight: 0.350000, Value: 110)
+ - Lightweight Power Bank (Weight: 0.520000, Value: 145)
+ - Warm Sleeping Bag (Weight: 0.800000, Value: 180)
+ - Waterproof Sleeping Bag (Weight: 0.950000, Value: 200)
+ - Double Sleeping Bag (Weight: 1.200000, Value: 260)
+ - Expedition Sleeping Bag (Weight: 1.300000, Value: 280)
+ - Quick-pack Sleeping Bag (Weight: 1.400000, Value: 300)
+ - All-weather Tent (Weight: 3.500000, Value: 250)
+ - Heavy-duty Tent (Weight: 4.500000, Value: 300)
+ - Quick-setup Tent (Weight: 3.100000, Value: 225)
+ - Double-layer Tent (Weight: 3.900000, Value: 265)
+ - Basic First Aid Kit (Weight: 0.250000, Value: 80)
+ - Compact First Aid Kit (Weight: 0.300000, Value: 90)
+ - Extended First Aid Kit (Weight: 0.400000, Value: 110)
+ - Mini First Aid Kit (Weight: 0.200000, Value: 60)
+ - High-capacity First Aid Kit (Weight: 0.600000, Value: 130)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Detailed Map (Weight: 0.070000, Value: 45)
+ - Expedition Map (Weight: 0.090000, Value: 55)
+ - Emergency Map (Weight: 0.110000, Value: 65)
+ - High-resolution Map (Weight: 0.120000, Value: 70)
+ - High-calorie Food Supplies (Weight: 1.500000, Value: 230)
+ - Dehydrated Food Supplies (Weight: 1.300000, Value: 200)
+ - Protein-rich Food Supplies (Weight: 1.400000, Value: 210)
+ - Canned Food Supplies (Weight: 1.800000, Value: 260)
+ - Lightweight Food Supplies (Weight: 1.200000, Value: 190)
+ - Family-sized Food Supplies (Weight: 2.200000, Value: 300)
+ - Multi-day Food Supplies (Weight: 2.500000, Value: 350)
+ - Insulated Water Bottle (Weight: 1.000000, Value: 70)
+ - Lightweight Water Bottle (Weight: 1.200000, Value: 90)
+ - Leak-proof Water Bottle (Weight: 1.400000, Value: 95)
+ - Stainless Steel Water Bottle (Weight: 1.600000, Value: 105)
+ - Eco-friendly Water Bottle (Weight: 1.700000, Value: 110)
+ - Compact Stove (Weight: 0.850000, Value: 95)
+ - Multi-purpose Stove (Weight: 0.700000, Value: 80)
+ - Large-capacity Stove (Weight: 1.200000, Value: 130)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 49
+Total value: 7197
+Execution time: 172.514708ms
+-------------------------------------------------------------
+
+Attempt: 5
+Best solution: [1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 0 0 0 1 1 0 0 0 1 0 1 0 0 1 0 0 1 1 1 1 0 1 1 0 0 0 1 0 1 0 0 1 0 1 0 0 1 1 0 1 0 0 1 1 0 0 0 0 0 1 0 0 1 0 1 0 0 1 1 0 0 1 0 1]
+List of items included in knapsack:
+ - Sharp Knife (Weight: 0.270000, Value: 85)
+ - Compact Knife (Weight: 0.230000, Value: 80)
+ - Camping Knife (Weight: 0.260000, Value: 84)
+ - Folding Knife (Weight: 0.290000, Value: 89)
+ - Compact Lighter (Weight: 0.080000, Value: 100)
+ - Waterproof Lighter (Weight: 0.110000, Value: 105)
+ - Heavy-duty Lighter (Weight: 0.140000, Value: 125)
+ - All-weather Lighter (Weight: 0.150000, Value: 130)
+ - Portable Power Bank (Weight: 0.350000, Value: 110)
+ - Slim Power Bank (Weight: 0.420000, Value: 125)
+ - Rugged Power Bank (Weight: 0.380000, Value: 115)
+ - Warm Sleeping Bag (Weight: 0.800000, Value: 180)
+ - Compact Sleeping Bag (Weight: 0.750000, Value: 170)
+ - Lightweight Sleeping Bag (Weight: 0.900000, Value: 195)
+ - Heavy-duty Sleeping Bag (Weight: 1.000000, Value: 220)
+ - Quick-pack Sleeping Bag (Weight: 1.400000, Value: 300)
+ - Two-person Tent (Weight: 3.000000, Value: 220)
+ - Compact Tent (Weight: 2.700000, Value: 190)
+ - Insulated Tent (Weight: 3.200000, Value: 230)
+ - Double-layer Tent (Weight: 3.900000, Value: 265)
+ - Waterproof First Aid Kit (Weight: 0.350000, Value: 100)
+ - Extended First Aid Kit (Weight: 0.400000, Value: 110)
+ - Mini First Aid Kit (Weight: 0.200000, Value: 60)
+ - Multi-purpose First Aid Kit (Weight: 0.450000, Value: 115)
+ - High-capacity First Aid Kit (Weight: 0.600000, Value: 130)
+ - Portable First Aid Kit (Weight: 0.550000, Value: 125)
+ - Compact Map (Weight: 0.040000, Value: 30)
+ - Topographic Map (Weight: 0.080000, Value: 50)
+ - Trail Map (Weight: 0.100000, Value: 60)
+ - High-resolution Map (Weight: 0.120000, Value: 70)
+ - Protein-rich Food Supplies (Weight: 1.400000, Value: 210)
+ - Carbohydrate Food Supplies (Weight: 1.600000, Value: 240)
+ - Canned Food Supplies (Weight: 1.800000, Value: 260)
+ - Family-sized Food Supplies (Weight: 2.200000, Value: 300)
+ - Multi-day Food Supplies (Weight: 2.500000, Value: 350)
+ - Emergency Water Bottle (Weight: 0.900000, Value: 65)
+ - Stainless Steel Water Bottle (Weight: 1.600000, Value: 105)
+ - Portable Stove (Weight: 0.800000, Value: 90)
+ - High-efficiency Stove (Weight: 0.900000, Value: 100)
+ - Multi-purpose Stove (Weight: 0.700000, Value: 80)
+ - Windproof Stove (Weight: 0.950000, Value: 105)
+ - Rugged Stove (Weight: 1.300000, Value: 140)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total items included: 42
+Total value: 6013
+Execution time: 170.267458ms
+-------------------------------------------------------------
